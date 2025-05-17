@@ -58,7 +58,7 @@
   </style>
 </head>
 <body>
-  <div class="profile">
+  <img src="florina-logo.png" alt="Florina Logo" />
     <img src="https://chat.openai.com/mnt/data/file-RZdHCAqgKrHwEQz3ojj3BS" alt="Florina Logo" />
     <h1>Florina Fashion</h1>
     <p>Official Shop</p>
